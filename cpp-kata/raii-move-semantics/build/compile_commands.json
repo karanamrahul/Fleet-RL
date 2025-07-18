@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wuseless-cast -Wdouble-promotion -Wformat=2 -fsanitize=address -fsanitize=undefined -fsanitize=leak -fno-sanitize-recover=all -fsanitize-address-use-after-scope -g -O0 -DDEBUG -fno-omit-frame-pointer -fno-optimize-sibling-calls -o CMakeFiles/kata1_basic_raii.dir/kata1_basic_raii.cpp.o -c /home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata1_basic_raii.cpp",
+  "file": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata1_basic_raii.cpp",
+  "output": "CMakeFiles/kata1_basic_raii.dir/kata1_basic_raii.cpp.o"
+},
+{
+  "directory": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wuseless-cast -Wdouble-promotion -Wformat=2 -fsanitize=address -fsanitize=undefined -fsanitize=leak -fno-sanitize-recover=all -fsanitize-address-use-after-scope -g -O0 -DDEBUG -fno-omit-frame-pointer -fno-optimize-sibling-calls -o CMakeFiles/kata2_smart_pointers.dir/kata2_smart_pointers.cpp.o -c /home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata2_smart_pointers.cpp",
+  "file": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata2_smart_pointers.cpp",
+  "output": "CMakeFiles/kata2_smart_pointers.dir/kata2_smart_pointers.cpp.o"
+},
+{
+  "directory": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -Wnull-dereference -Wuseless-cast -Wdouble-promotion -Wformat=2 -fsanitize=address -fsanitize=undefined -fsanitize=leak -fno-sanitize-recover=all -fsanitize-address-use-after-scope -g -O0 -DDEBUG -fno-omit-frame-pointer -fno-optimize-sibling-calls -o CMakeFiles/kata3_advanced_move.dir/kata3_advanced_move.cpp.o -c /home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata3_advanced_move.cpp",
+  "file": "/home/rahul/DREAM/Fleet-RL/cpp-kata/raii-move-semantics/kata3_advanced_move.cpp",
+  "output": "CMakeFiles/kata3_advanced_move.dir/kata3_advanced_move.cpp.o"
+}
+]

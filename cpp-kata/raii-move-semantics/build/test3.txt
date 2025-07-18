@@ -1,0 +1,1 @@
+Move assignment test
