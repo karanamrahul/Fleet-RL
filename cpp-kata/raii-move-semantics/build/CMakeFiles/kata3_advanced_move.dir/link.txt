@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -fsanitize=address -fsanitize=undefined -fsanitize=leak -fno-sanitize-recover=all -fsanitize-address-use-after-scope CMakeFiles/kata3_advanced_move.dir/kata3_advanced_move.cpp.o -o kata3_advanced_move 
